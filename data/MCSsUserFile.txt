@@ -1,0 +1,92 @@
+
+
+
+Starttime is: 2007-10-27 00:30:00.000013 
+Endtime is: 2007-10-27 04:00:00.000027 
+Life duration is 4:30:00.000014 hrs
+Time of maturity is 2007-10-27 00:30:00.000013 
+Duration mature stage is: 12 
+Average area is: 63508.0000 km^2 
+Max area is: 187200.0000 km^2 
+Max area time is: 2007-10-27 01:00:00.000027 
+Eccentricity at max area is: 0.4805 
+Center (lat,lon) at max area is: 1.33	99.62
+Propagation speed is 0.0000 
+
+
+Starttime is: 2007-10-27 00:30:00.000013 
+Endtime is: 2007-10-27 05:30:00.000027 
+Life duration is 6:00:00.000014 hrs
+Time of maturity is 2007-10-27 00:30:00.000013 
+Duration mature stage is: 12 
+Average area is: 158061.3333 km^2 
+Max area is: 246656.0000 km^2 
+Max area time is: 2007-10-27 05:30:00.000027 
+Eccentricity at max area is: 0.7697 
+Center (lat,lon) at max area is: 5.33	148.01
+Propagation speed is 0.0000 
+
+
+Starttime is: 2007-10-27 00:00:00 
+Endtime is: 2007-10-27 06:30:00.000013 
+Life duration is 7:30:00.000013 hrs
+Time of maturity is 2007-10-27 00:00:00 
+Duration mature stage is: 53 
+Average area is: 254188.6792 km^2 
+Max area is: 1287648.0000 km^2 
+Max area time is: 2007-10-27 06:30:00.000013 
+Eccentricity at max area is: 0.5614 
+Center (lat,lon) at max area is: 8.97	122.47
+Propagation speed is 0.0000 
+
+
+Starttime is: 2007-10-27 00:00:00 
+Endtime is: 2007-10-27 06:30:00.000013 
+Life duration is 7:30:00.000013 hrs
+Time of maturity is 2007-10-27 00:00:00 
+Duration mature stage is: 52 
+Average area is: 204180.6154 km^2 
+Max area is: 663488.0000 km^2 
+Max area time is: 2007-10-27 06:30:00.000013 
+Eccentricity at max area is: 0.8160 
+Center (lat,lon) at max area is: 7.62	94.46
+Propagation speed is 0.0000 
+
+
+Starttime is: 2007-10-27 00:00:00 
+Endtime is: 2007-10-27 06:30:00.000013 
+Life duration is 7:30:00.000013 hrs
+Time of maturity is 2007-10-27 00:00:00 
+Duration mature stage is: 26 
+Average area is: 143017.2308 km^2 
+Max area is: 292784.0000 km^2 
+Max area time is: 2007-10-27 06:00:00 
+Eccentricity at max area is: 0.7543 
+Center (lat,lon) at max area is: -6.31	94.89
+Propagation speed is 0.0000 
+
+
+Starttime is: 2007-10-27 00:30:00.000013 
+Endtime is: 2007-10-27 05:30:00.000027 
+Life duration is 6:00:00.000014 hrs
+Time of maturity is 2007-10-27 00:30:00.000013 
+Duration mature stage is: 22 
+Average area is: 50113.4545 km^2 
+Max area is: 108624.0000 km^2 
+Max area time is: 2007-10-27 04:30:00 
+Eccentricity at max area is: 0.4973 
+Center (lat,lon) at max area is: 9.59	134.58
+Propagation speed is 0.0000 
+
+
+Starttime is: 2007-10-27 00:00:00 
+Endtime is: 2007-10-27 06:30:00.000013 
+Life duration is 7:30:00.000013 hrs
+Time of maturity is 2007-10-27 00:00:00 
+Duration mature stage is: 20 
+Average area is: 251848.0000 km^2 
+Max area is: 475360.0000 km^2 
+Max area time is: 2007-10-27 03:30:00.000013 
+Eccentricity at max area is: 0.9585 
+Center (lat,lon) at max area is: -1.51	129.20
+Propagation speed is 0.0000 
